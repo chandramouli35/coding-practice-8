@@ -1,0 +1,64 @@
+.fo-container {
+    background-color: red;
+    padding: 5px;
+}
+
+.fo-card-heading {
+    color: #ffffff;
+    font-size: 20px;
+
+}
+
+.fo-card-description {
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.fist-image {
+    height: 120px;
+    width: 120px;
+}
+
+.bg-container {
+    background-color: blue;
+}
+
+.rahul-card {
+    background-color: white;
+    margin: 7px;
+    border-top-left-radius: 19px;
+    border-top-right-radius: 19px;
+    border-bottom-left-radius: 19px;
+    border-bottom-right-radius: 19px;
+}
+
+.heading-two {
+    font-size: 15px;
+    padding: 1px;
+
+}
+
+.description-two {
+    font-size: 13px;
+    margin: 1px;
+    color: #323f4b;
+}
+
+.image-two {
+    height: 90px;
+    width: 90px;
+}
+
+.image-three {
+    height: 50px;
+}
+
+.three-description {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.videos-container {
+    margin: 5px;
+    width: 96px;
+}
